@@ -21,6 +21,10 @@ Masquerain.exe --help
 ```
 Will show the usage.
 
+## Masquerain-Webcam
+
+Masquerain-Webcam opens your default video input device and starts outputting teletext-video in real time. To use it, just start the executable. Depends on the main project and has the same compilation requirements.
+
 ## Compilation
 
 The executable has been compiled under Visual Studio 2015, using OpenCV 3.4.1 and Boost-Program-Options 1.66.0, as provided by VCPkg, the Microsoft packaging tool for Visual C++.
