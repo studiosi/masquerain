@@ -23,7 +23,7 @@ Will show the usage.
 
 ## Masquerain-Webcam
 
-Masquerain-Webcam opens your default video input device and starts outputting teletext-video in real time. To use it, just start the executable. Depends on the main project and has the same compilation requirements.
+Masquerain-Webcam opens your default video input device and starts outputting teletext-video in real time. To use it, just start the executable. Depends on the main project and has the same compilation requirements. Press "q" to quit.
 
 ## Compilation
 
